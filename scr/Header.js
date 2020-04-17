@@ -8,7 +8,7 @@ const Header = ( ) => {
       </View>
         <View style={styles.frame2}>
             <Image style={styles.navbar} source={require("./icon/navbar.png")}/>
-            <Text style={styles.w2}>My Book 123</Text>
+            <Text style={styles.w2}>My Book</Text>
             <Image style={styles.search} source={require("./icon/search.png")}/>
         </View>
         </View>
