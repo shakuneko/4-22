@@ -1,12 +1,14 @@
 import React from "react";
-import { StyleSheet, Text, View ,Image } from "react-native";
+import { StyleSheet, Text, View ,Image ,Button} from "react-native";
 
-const Header = ( ) => {
+
+const Header = ( navigation ) => {
     return (
       <View style={styles.container}>
       <View style={styles.frame}>
       </View>
         <View style={styles.frame2}>
+          
             <Image style={styles.navbar} source={require("./icon/navbar.png")}/>
             <Text style={styles.w2}>My Book</Text>
             <Image style={styles.search} source={require("./icon/search.png")}/>
@@ -49,6 +51,9 @@ const Header = ( ) => {
       fontFamily:'sans-serif-medium',
       color:'#ffffff',
     },
+
+    
+    
   });
  
   

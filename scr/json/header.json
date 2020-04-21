@@ -1,0 +1,31 @@
+{
+    "drawer":{
+        "user":"https://raw.githubusercontent.com/shakuneko/wk333/master/scr/icon/user.png",
+        "name":"GamexHCl",
+        "email":"gdlab2017@gmail.com",
+        "arrow":"https://raw.githubusercontent.com/shakuneko/wk333/master/scr/icon/arrow.png",
+        "home":"https://raw.githubusercontent.com/shakuneko/wk333/master/scr/icon/shome.png",
+        "w1":"Home",
+        "book":"https://raw.githubusercontent.com/shakuneko/wk333/master/scr/icon/wbook.png",
+        "w2":"My Book",
+        "favorites":"https://raw.githubusercontent.com/shakuneko/wk333/master/scr/icon/sfavorites.png",
+        "w3":"Favorites",
+        "setting":"https://raw.githubusercontent.com/shakuneko/wk333/master/scr/icon/ssetting.png",
+        "w4":"Setting",
+        "aboutus":"https://raw.githubusercontent.com/shakuneko/wk333/master/scr/icon/saboutus.png",
+        "w5":"About us"
+    },
+    "header":{
+        "p1":"https://raw.githubusercontent.com/shakuneko/wk333/master/scr/icon/navbar.png",
+        "w":"My Book",
+        "search":"https://raw.githubusercontent.com/shakuneko/wk333/master/scr/icon/search.png"
+    },
+    "bottom":{
+        "home":"https://raw.githubusercontent.com/shakuneko/wk333/master/scr/icon/home.png",
+        "book":"https://raw.githubusercontent.com/shakuneko/wk333/master/scr/icon/gbook.png",
+        "favorites":"https://raw.githubusercontent.com/shakuneko/wk333/master/scr/icon/favorites.png",
+        "w1":"Home",
+        "w2":"My Book",
+        "w3":"Favorites"
+    }
+}

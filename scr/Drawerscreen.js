@@ -1,10 +1,10 @@
 import React from 'react';
-import { StyleSheet, Text, View,Image } from 'react-native';
+import { StyleSheet, Text, View,Image ,Button} from 'react-native';
  
-const Drawer = ( ) => {
+const Drawerscreen = (navigation) => {
 return (
-    <View>
-      <View style={styles.frame77}>
+    
+  <View style={styles.frame77}>
     <View style={styles.frame7}>
               <Image style={styles.user} source={require("./icon/user.png")}/>
               <Text style={styles.w8}>GamexHCl</Text>
@@ -41,7 +41,7 @@ return (
             </View>
             </View>
             
-  </View>
+  
 
   );
 }
@@ -112,4 +112,4 @@ frame7: {
   }
 });
 
-export default Drawer;
+export default Drawerscreen;
