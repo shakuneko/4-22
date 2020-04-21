@@ -202,7 +202,7 @@ const Headerscreen = ( navigation ) => {
 
   
     frame5: {
-     
+      backgroundColor: '#ffffff',
       borderTopWidth:1.5,
       borderColor:'#d1d1d1',
       width:500,
